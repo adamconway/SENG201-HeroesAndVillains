@@ -1,0 +1,51 @@
+[	{
+    "name":"",
+    "iconUrl":"/images/heroes/default.png",
+		"attack":40,
+    "defence":40,
+		"maxHealth":100,
+    "type":"Merchant",
+    "description":"Adding this hero to your team will decrease the cost of items",
+    "shortDescription":"Merchant short description"
+		},
+	{
+    "name":"",
+    "iconUrl":"/images/heroes/default.png",
+		"attack":40,
+    "defence":40,
+		"maxHealth":100,
+    "type":"Medic",
+    "description":"Adding this hero to your team will half the time to apply heals",
+    "shortDescription":"Medic short description"
+		},
+	{
+    "name":"",
+    "iconUrl":"/images/heroes/default.png",
+    "attack":10,
+    "defence":10,
+    "maxHealth":200,
+		"type":"Tank",
+		"description":"This hero has low base damage, but has a high base health",
+    "shortDescription":"Tank short description"
+	},
+	{
+    "name":"",
+    "iconUrl":"/images/heroes/default.png",
+		"attack":70,
+    "defence":70,
+		"maxHealth":50,
+    "type":"Assassin",
+    "description":"This hero has high attack damage, but can be one hit by villains",
+    "shortDescription":"Assassin short description"
+	},
+	{
+    "name":"",
+    "iconUrl":"/images/heroes/default.png",
+    "attack":40,
+    "defence":40,
+    "maxHealth":100,
+		"type":"Explorer",
+		"description":"This hero always knows the way",
+    "shortDescription":"Explorer short description"
+	}
+]
